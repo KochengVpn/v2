@@ -24,7 +24,7 @@ clear;clear;clear
 
   # // Banner
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo -e "  Welcome To KOCHENG VPN SCRIPT ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
+echo -e "  Welcome To ULTRASONIC VPN SCRIPT ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e " This Will Quick Setup VPN Server On Your Server"
 echo -e "  Auther : ${green}KOCHENG TUNNELING ® ${NC}${YELLOW}(${NC} ${green} KOCHENG VPN${NC}${YELLOW})${NC}"
 echo -e " © Recode By My Self KOCHENG TUNNELING ${YELLOW}(${NC} 2023 ${YELLOW})${NC}"
